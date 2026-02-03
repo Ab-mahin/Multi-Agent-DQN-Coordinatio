@@ -1,0 +1,274 @@
+
+============================================================
+Training Session Started: 2026-02-03 15:36:53
+============================================================
+
+Episode 1/1 | Deliveries: 3 | Collisions: 0 | Loss: 2.0629 | ε: 0.000
+
+============================================================
+FINAL RESULTS (Online DQN Learning)
+============================================================
+Total Deliveries: 3
+Collision-Free Deliveries: 3
+Total Collisions: 0
+Avg steps per delivery: 8.33
+Avg ratio (steps/optimal): 2.778
+Fraction within 1.025×optimal: 0.0%
+------------------------------------------------------------
+Success Rate (collision-free): 100.0%
+B (Performance Points): 2
+C (Total Cost): 2
+α (Alpha): 1.0000
+============================================================
+
+============================================================
+Training Session Started: 2026-02-03 15:37:27
+============================================================
+
+Episode 1/1 | Deliveries: 598 | Collisions: 0 | Loss: 35.9689 | ε: 0.000
+
+============================================================
+FINAL RESULTS (Online DQN Learning)
+============================================================
+Total Deliveries: 598
+Collision-Free Deliveries: 598
+Total Collisions: 0
+Avg steps per delivery: 5.00
+Avg ratio (steps/optimal): 1.000
+Fraction within 1.025×optimal: 100.0%
+------------------------------------------------------------
+Success Rate (collision-free): 100.0%
+B (Performance Points): 2
+C (Total Cost): 2
+α (Alpha): 1.0000
+============================================================
+
+============================================================
+Training Session Started: 2026-02-03 15:37:30
+============================================================
+
+Episode 1/1 | Deliveries: 1 | Collisions: 0 | Loss: 0.6301 | ε: 0.000
+
+============================================================
+FINAL RESULTS (Online DQN Learning)
+============================================================
+Total Deliveries: 1
+Collision-Free Deliveries: 1
+Total Collisions: 0
+Avg steps per delivery: 31.00
+Avg ratio (steps/optimal): 10.333
+Fraction within 1.025×optimal: 0.0%
+------------------------------------------------------------
+Success Rate (collision-free): 100.0%
+B (Performance Points): 2
+C (Total Cost): 2
+α (Alpha): 1.0000
+============================================================
+
+============================================================
+Training Session Started: 2026-02-03 15:37:34
+============================================================
+
+Episode 1/1 | Deliveries: 749 | Collisions: 0 | Loss: 42.8993 | ε: 0.000
+
+============================================================
+FINAL RESULTS (Online DQN Learning)
+============================================================
+Total Deliveries: 749
+Collision-Free Deliveries: 749
+Total Collisions: 0
+Avg steps per delivery: 3.00
+Avg ratio (steps/optimal): 1.000
+Fraction within 1.025×optimal: 100.0%
+------------------------------------------------------------
+Success Rate (collision-free): 100.0%
+B (Performance Points): 2
+C (Total Cost): 2
+α (Alpha): 1.0000
+============================================================
+
+============================================================
+Training Session Started: 2026-02-03 15:37:44
+============================================================
+
+Episode 1/10 | Deliveries: 4 | Collisions: 0 | Loss: 1.7145 | ε: 0.000
+Episode 2/10 | Deliveries: 596 | Collisions: 1 | Loss: 14.3826 | ε: 0.000
+Episode 3/10 | Deliveries: 749 | Collisions: 0 | Loss: 26.4854 | ε: 0.000
+Episode 4/10 | Deliveries: 748 | Collisions: 0 | Loss: 29.5193 | ε: 0.000
+Episode 5/10 | Deliveries: 749 | Collisions: 0 | Loss: 32.8229 | ε: 0.000
+Episode 6/10 | Deliveries: 748 | Collisions: 0 | Loss: 12.8260 | ε: 0.000
+Episode 7/10 | Deliveries: 2 | Collisions: 0 | Loss: 28.4721 | ε: 0.000
+Episode 8/10 | Deliveries: 749 | Collisions: 0 | Loss: 10.6518 | ε: 0.000
+Episode 9/10 | Deliveries: 11 | Collisions: 0 | Loss: 22.2643 | ε: 0.000
+Episode 10/10 | Deliveries: 2 | Collisions: 0 | Loss: 12.9142 | ε: 0.000
+
+============================================================
+FINAL RESULTS (Online DQN Learning)
+============================================================
+Total Deliveries: 4358
+Collision-Free Deliveries: 4355
+Total Collisions: 1
+Avg steps per delivery: 2.08
+Avg ratio (steps/optimal): 1.004
+Fraction within 1.025×optimal: 99.7%
+------------------------------------------------------------
+Success Rate (collision-free): 99.9%
+B (Performance Points): 2
+C (Total Cost): 2
+α (Alpha): 1.0000
+============================================================
+
+============================================================
+Training Session Started: 2026-02-03 15:37:59
+============================================================
+
+Episode 1/10 | Deliveries: 500 | Collisions: 0 | Loss: 28.9858 | ε: 0.000
+Episode 2/10 | Deliveries: 3 | Collisions: 0 | Loss: 13.4443 | ε: 0.000
+Episode 3/10 | Deliveries: 13 | Collisions: 0 | Loss: 20.6640 | ε: 0.000
+Episode 4/10 | Deliveries: 499 | Collisions: 0 | Loss: 11.3078 | ε: 0.000
+Episode 5/10 | Deliveries: 250 | Collisions: 0 | Loss: 18.7981 | ε: 0.000
+Episode 6/10 | Deliveries: 1 | Collisions: 2 | Loss: 12.3552 | ε: 0.000
+Episode 7/10 | Deliveries: 12 | Collisions: 0 | Loss: 11.4963 | ε: 0.000
+Episode 8/10 | Deliveries: 749 | Collisions: 0 | Loss: 6.5097 | ε: 0.000
+Episode 9/10 | Deliveries: 375 | Collisions: 0 | Loss: 10.5739 | ε: 0.000
+Episode 10/10 | Deliveries: 749 | Collisions: 0 | Loss: 9.9104 | ε: 0.000
+
+============================================================
+FINAL RESULTS (Online DQN Learning)
+============================================================
+Total Deliveries: 3151
+Collision-Free Deliveries: 3150
+Total Collisions: 2
+Avg steps per delivery: 4.01
+Avg ratio (steps/optimal): 1.245
+Fraction within 1.025×optimal: 60.3%
+------------------------------------------------------------
+Success Rate (collision-free): 100.0%
+B (Performance Points): 2
+C (Total Cost): 2
+α (Alpha): 1.0000
+============================================================
+
+============================================================
+Training Session Started: 2026-02-03 15:38:07
+============================================================
+
+Episode 1/10 | Deliveries: 1 | Collisions: 2 | Loss: 0.6690 | ε: 0.000
+Episode 2/10 | Deliveries: 749 | Collisions: 0 | Loss: 15.4825 | ε: 0.000
+Episode 3/10 | Deliveries: 2 | Collisions: 0 | Loss: 18.2971 | ε: 0.000
+Episode 4/10 | Deliveries: 2 | Collisions: 0 | Loss: 11.7978 | ε: 0.000
+Episode 5/10 | Deliveries: 1 | Collisions: 1 | Loss: 10.0375 | ε: 0.000
+Episode 6/10 | Deliveries: 1 | Collisions: 0 | Loss: 1.2655 | ε: 0.000
+Episode 7/10 | Deliveries: 750 | Collisions: 0 | Loss: 6.4286 | ε: 0.000
+Episode 8/10 | Deliveries: 749 | Collisions: 0 | Loss: 14.7698 | ε: 0.000
+Episode 9/10 | Deliveries: 2 | Collisions: 0 | Loss: 19.6544 | ε: 0.000
+Episode 10/10 | Deliveries: 2 | Collisions: 1 | Loss: 14.5984 | ε: 0.000
+
+============================================================
+FINAL RESULTS (Online DQN Learning)
+============================================================
+Total Deliveries: 2259
+Collision-Free Deliveries: 2256
+Total Collisions: 4
+Avg steps per delivery: 1.03
+Avg ratio (steps/optimal): 1.006
+Fraction within 1.025×optimal: 99.8%
+------------------------------------------------------------
+Success Rate (collision-free): 99.9%
+B (Performance Points): 2
+C (Total Cost): 2
+α (Alpha): 1.0000
+============================================================
+
+============================================================
+Training Session Started: 2026-02-03 15:38:16
+============================================================
+
+Episode 1/10 | Deliveries: 6 | Collisions: 0 | Loss: 2.5909 | ε: 0.000
+Episode 2/10 | Deliveries: 1 | Collisions: 0 | Loss: 0.5948 | ε: 0.000
+Episode 3/10 | Deliveries: 1 | Collisions: 0 | Loss: 0.4342 | ε: 0.000
+Episode 4/10 | Deliveries: 497 | Collisions: 1 | Loss: 6.2221 | ε: 0.000
+Episode 5/10 | Deliveries: 1 | Collisions: 0 | Loss: 11.4707 | ε: 0.000
+Episode 6/10 | Deliveries: 498 | Collisions: 0 | Loss: 14.8912 | ε: 0.000
+Episode 7/10 | Deliveries: 8 | Collisions: 0 | Loss: 18.4391 | ε: 0.000
+Episode 8/10 | Deliveries: 499 | Collisions: 0 | Loss: 12.2450 | ε: 0.000
+Episode 9/10 | Deliveries: 749 | Collisions: 0 | Loss: 24.9089 | ε: 0.000
+Episode 10/10 | Deliveries: 2 | Collisions: 0 | Loss: 16.4748 | ε: 0.000
+
+============================================================
+FINAL RESULTS (Online DQN Learning)
+============================================================
+Total Deliveries: 2262
+Collision-Free Deliveries: 2260
+Total Collisions: 1
+Avg steps per delivery: 4.71
+Avg ratio (steps/optimal): 1.130
+Fraction within 1.025×optimal: 77.4%
+------------------------------------------------------------
+Success Rate (collision-free): 99.9%
+B (Performance Points): 2
+C (Total Cost): 2
+α (Alpha): 1.0000
+============================================================
+
+============================================================
+Training Session Started: 2026-02-03 15:38:34
+============================================================
+
+Episode 1/10 | Deliveries: 597 | Collisions: 0 | Loss: 35.1137 | ε: 0.000
+Episode 2/10 | Deliveries: 1 | Collisions: 0 | Loss: 19.6829 | ε: 0.000
+Episode 3/10 | Deliveries: 749 | Collisions: 0 | Loss: 26.5732 | ε: 0.000
+Episode 4/10 | Deliveries: 732 | Collisions: 0 | Loss: 24.3685 | ε: 0.000
+Episode 5/10 | Deliveries: 3 | Collisions: 0 | Loss: 28.3343 | ε: 0.000
+Episode 6/10 | Deliveries: 500 | Collisions: 0 | Loss: 16.0819 | ε: 0.000
+Episode 7/10 | Deliveries: 5 | Collisions: 0 | Loss: 16.3495 | ε: 0.000
+Episode 8/10 | Deliveries: 749 | Collisions: 0 | Loss: 13.4886 | ε: 0.000
+Episode 9/10 | Deliveries: 748 | Collisions: 0 | Loss: 21.5163 | ε: 0.000
+Episode 10/10 | Deliveries: 373 | Collisions: 0 | Loss: 16.6254 | ε: 0.000
+
+============================================================
+FINAL RESULTS (Online DQN Learning)
+============================================================
+Total Deliveries: 4457
+Collision-Free Deliveries: 4457
+Total Collisions: 0
+Avg steps per delivery: 2.91
+Avg ratio (steps/optimal): 1.001
+Fraction within 1.025×optimal: 99.9%
+------------------------------------------------------------
+Success Rate (collision-free): 100.0%
+B (Performance Points): 2
+C (Total Cost): 2
+α (Alpha): 1.0000
+============================================================
+
+============================================================
+Training Session Started: 2026-02-03 15:45:14
+============================================================
+
+Episode 1/10 | Deliveries: 1 | Collisions: 1 | Loss: 0.6615 | ε: 0.000
+Episode 2/10 | Deliveries: 748 | Collisions: 0 | Loss: 16.1182 | ε: 0.000
+Episode 3/10 | Deliveries: 499 | Collisions: 0 | Loss: 26.9001 | ε: 0.000
+Episode 4/10 | Deliveries: 748 | Collisions: 0 | Loss: 28.2980 | ε: 0.000
+Episode 5/10 | Deliveries: 749 | Collisions: 0 | Loss: 41.2228 | ε: 0.000
+Episode 6/10 | Deliveries: 498 | Collisions: 0 | Loss: 34.0317 | ε: 0.000
+Episode 7/10 | Deliveries: 499 | Collisions: 0 | Loss: 31.2138 | ε: 0.000
+Episode 8/10 | Deliveries: 493 | Collisions: 0 | Loss: 23.8302 | ε: 0.000
+Episode 9/10 | Deliveries: 749 | Collisions: 0 | Loss: 23.8487 | ε: 0.000
+Episode 10/10 | Deliveries: 427 | Collisions: 0 | Loss: 20.8691 | ε: 0.000
+
+============================================================
+FINAL RESULTS (Online DQN Learning)
+============================================================
+Total Deliveries: 5411
+Collision-Free Deliveries: 5410
+Total Collisions: 1
+Avg steps per delivery: 3.87
+Avg ratio (steps/optimal): 1.047
+Fraction within 1.025×optimal: 90.7%
+------------------------------------------------------------
+Success Rate (collision-free): 100.0%
+B (Performance Points): 2
+C (Total Cost): 2
+α (Alpha): 1.0000
+============================================================
