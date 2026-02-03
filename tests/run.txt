@@ -6,3 +6,6 @@ pytest tests/test_nagentdqn.py::TestDQN -v
 
 # Run with coverage
 pytest tests/test_nagentdqn.py -v --cov=NAgentDQN
+
+# Run Multiple
+for i in {1..15}; do python -m pytest tests/test_nagentdqn.py -q 2>&1 | tail -1; done
