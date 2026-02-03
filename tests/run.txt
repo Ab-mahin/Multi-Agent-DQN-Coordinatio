@@ -1,0 +1,8 @@
+# Run all tests
+pytest tests/test_nagentdqn.py -v
+
+# Run specific test class
+pytest tests/test_nagentdqn.py::TestDQN -v
+
+# Run with coverage
+pytest tests/test_nagentdqn.py -v --cov=NAgentDQN
